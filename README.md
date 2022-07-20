@@ -1,1 +1,1 @@
-# mini_calculator
+# My first work in C++
